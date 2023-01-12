@@ -7,4 +7,6 @@ Program Link: [Band Name Generator](https://github.com/mannanpatel/100-Days-of-C
 
 ### Day-2: January 11, 2023
 
-**Today's Progress**: Today I leant 
+**Today's Progress**: Today still I touch basics of python like datatype - int,str,bool,float), rounding, mathematics operation, F-string.
+
+Program Link: [Tip Calculator]
