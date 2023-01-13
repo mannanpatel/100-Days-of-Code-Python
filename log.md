@@ -9,4 +9,10 @@ Program Link: [Band Name Generator](https://github.com/mannanpatel/100-Days-of-C
 
 **Today's Progress**: Today still I touch basics of python like datatype - int,str,bool,float), rounding, mathematics operation, F-string.
 
-Program Link: [Tip Calculator]
+Program Link: [Tip Calculator](https://github.com/mannanpatel/100-Days-of-Code-Python/blob/master/Beginner/Day-2/Project-2%20Tip%20Calculator.py)
+
+### Day-2: January 12, 2023
+
+**Today's Progress**: Today i learn about if, else and elsif statement, logical and comparsion operation and base on this concept i was created program with use of this concept.
+
+Program Link: [Treasure Island](https://github.com/mannanpatel/100-Days-of-Code-Python/blob/master/Beginner/Day-3/Day-3_Project_Treasure_Island.ipynb)
