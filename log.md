@@ -11,7 +11,7 @@ Program Link: [Band Name Generator](https://github.com/mannanpatel/100-Days-of-C
 
 Program Link: [Tip Calculator](https://github.com/mannanpatel/100-Days-of-Code-Python/blob/master/Beginner/Day-2/Project-2%20Tip%20Calculator.py)
 
-### Day-2: January 12, 2023
+### Day-3: January 12, 2023
 
 **Today's Progress**: Today i learn about if, else and elsif statement, logical and comparsion operation and base on this concept i was created program with use of this concept.
 
